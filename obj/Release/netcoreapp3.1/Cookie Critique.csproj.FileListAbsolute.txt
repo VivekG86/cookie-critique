@@ -1,0 +1,37 @@
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\Cookie Critique.exe
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\Cookie Critique.deps.json
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\Cookie Critique.runtimeconfig.json
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\Cookie Critique.runtimeconfig.dev.json
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\Cookie Critique.dll
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\Cookie Critique.pdb
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\Cookie Critique.Views.dll
+C:\Users\Vivek\source\repos\Cookie Critique\bin\Release\netcoreapp3.1\Cookie Critique.Views.pdb
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.csprojAssemblyReference.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.AssemblyInfoInputs.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.AssemblyInfo.cs
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.csproj.CoreCompileInputs.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.RazorAssemblyInfo.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.RazorAssemblyInfo.cs
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.TagHelpers.input.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.TagHelpers.output.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.RazorCoreGenerate.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.RazorTargetAssemblyInfo.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.RazorTargetAssemblyInfo.cs
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.Views.pdb
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\staticwebassets\Cookie Critique.StaticWebAssets.Manifest.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\staticwebassets\Cookie Critique.StaticWebAssets.xml
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.dll
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.pdb
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.genruntimeconfig.cache
+C:\Users\Vivek\source\repos\Cookie Critique\obj\Release\netcoreapp3.1\Cookie Critique.csproj.CopyComplete
